@@ -1,0 +1,3 @@
+# Musical-Guacamole
+//You play as a person trying to sneak around to the exit while not being caught by the enemy guacamoles. He will have a very limited field of view. Each level will be as big as the screen. The game will be over if you come into their field of view. You can hear who's near based on how loud the music is. Levels become more complex further and further into the game, and harder levels will require you to obtain keys in order to unlock the exit or obtaining certain treasure. There will be walls and will be maze-like. This will be from a birds-eye view in 2D. We will code this using a tile map. The loudness of the sounds will be played accordingly based on how many units away the guacamole is to the person.
+?
